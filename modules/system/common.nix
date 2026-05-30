@@ -19,6 +19,7 @@
     pkgs.lazygit
     pkgs.neovim
     pkgs.nodejs_22
+    pkgs.pnpm
     pkgs.carapace
     pkgs.nushell
     pkgs.nu_scripts
