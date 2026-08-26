@@ -36,7 +36,7 @@
   '';
 
   programs.git.settings.user = {
-    name = "victorgoh-zen";
-    email = "victor.goh@zenenergy.com.au";
+    name = "victorignite";
+    email = "victor.goh@ignitedata.com.au";
   };
 }
